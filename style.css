@@ -1,0 +1,28 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+{
+  background-color: black;
+}
+
+h1
+{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  padding: 25% 0;
+}
+
+.parallax-window
+{
+  width: 100%;
+  min-height: 400vh;
+  background: transparent;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
